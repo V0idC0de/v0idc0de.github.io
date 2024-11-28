@@ -1,18 +1,19 @@
 ---
-title: Colophon
+title: Who Is This Guy Anyway?
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: I'm a Computer Scientist based in Germany, working in automation and cloud technology.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+I'm a computer scientist based in Germany, working in the field of automation and cloud technology. Previously, I've been working in IT-Security for some years.
 
-If you have a question about him or else, just send a letter to him.
+Things I'm most curious about are innovative ways to do stuff, learning about automations so I can save 3 minutes with just 3 hours of setup *(it's worth it in the long run, I promise!)* and sharing some tricks or lessons, I learn along the way.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+One of my students is my future-me, who always needs notes to remember things 🤡
+If this sounds familiar to you, maybe you'll enjoy what you find here.
 
-**may u needs ✨**
+**Want to Reach Out?**
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- 📧 [{{ site.author.email }}](mailto:{{ site.author.email }})
+- [github.com/{{ site.author.github }}](https://github.com/v0idc0de)
